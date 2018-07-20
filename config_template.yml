@@ -1,0 +1,8 @@
+aws_credentials:
+    aws_region: eu-west-1
+    aws_access_key_id: <access_key>
+    aws_secret_key_id: <secret_key>
+s3:
+    aws_s3_bucket: <the bucket with permissions>
+    aws_s3_bucket_dir: <destination dir in bucket>
+    aws_s3_host: s3.eu-west-1.amazonaws.com

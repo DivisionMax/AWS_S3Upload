@@ -1,6 +1,5 @@
 import os
 import sys
-from datetime import date
 import logging
 import traceback
 import yaml

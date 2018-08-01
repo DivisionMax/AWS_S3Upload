@@ -2,7 +2,6 @@ boto3==1.7.67
 botocore==1.10.67
 docutils==0.14
 jmespath==0.9.3
-pkg-resources==0.0.0
 python-dateutil==2.7.3
 PyYAML==3.13
 s3transfer==0.1.13

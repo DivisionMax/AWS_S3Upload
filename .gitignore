@@ -2,3 +2,4 @@ env
 config.yml
 .vscode
 .idea
+__pycache__/

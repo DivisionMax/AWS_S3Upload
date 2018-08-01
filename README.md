@@ -1,7 +1,4 @@
-# Backup to AWS S3
-
-`python backup_to_s3.py <input file or dir> <optional: destination dir in bucket>`
-
+# AWS S3 Client
 
 1. Change the `config_template.yml` to `config.yml` and complete the fields
 
